@@ -4,4 +4,4 @@ Because of its posterity status, parts of the code have been redacted - sometime
 
 This project was for an automated disk-testing station. It is a simple set of scripts run off the CLI (bash) of a Cent7 install.  It is built on python and uses curses as a frontend.  It also requires the pySMART-0.31 library to run.
 
-This project is definitely a hard-coded piece of software for a specific task - not a general redistributable.
+This project is definitely a hard-coded piece of software for a specific task - not a general redistributable.  The script was run on a Dell T420 with a StarTech 4-bay USB-Hard drive adapter.  Testing parameters were hardcoded according to the company's requirements.
